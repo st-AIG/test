@@ -1,2 +1,2 @@
 # Git helper
-Hello
+Hello and welcome
